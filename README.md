@@ -1,16 +1,21 @@
-## Hi there 👋
+# Eduarda Helena
 
-<!--
-**Eduarda-Helena/Eduarda-Helena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação com foco em Análise de Dados e Business Intelligence.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (MySQL)
+- Microsoft Excel
+- Python
+- Análise de Dados
+- Business Intelligence
+
+## Projetos em destaque
+
+. Análise de Vendas – SQL e Excel  
+Análise de base de dados com criação de KPIs, dashboard e avaliação de impacto de descontos.
+
+. Sistema de Vendas – Python  
+Sistema em terminal para controle e registro de vendas com geração de relatórios.
+
+Estou em busca de oportunidade de estágio na área de dados.
